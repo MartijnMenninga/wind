@@ -1,1 +1,1 @@
-wind_speed = 0
+wind_speed = 1
