@@ -1,1 +1,1 @@
-print("Hello World")
+wind_speed = 0
